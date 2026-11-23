@@ -15,11 +15,9 @@ Install any skill globally in one command (works with Antigravity, Claude Code, 
 | :--- | :--- | :--- |
 | **[`autonomous-hyper-velocity-governor`](https://github.com/Henry-19/autonomous-hyper-velocity-governor)** | Zero-prompt autonomous execution, parallel tool batching & Rust CLI velocity | `npx skills add Henry-19/autonomous-hyper-velocity-governor -g` |
 | **[`rust-systems-architect`](https://github.com/Henry-19/rust-systems-architect)** | Rust 2024/2021 systems, Tokio/Axum, PyO3/napi-rs FFI & Rust CLI (`rg`, `fd`, `uv`, `typst`) | `npx skills add Henry-19/rust-systems-architect -g` |
-| **[`ai-dev-squad-skills`](https://github.com/Henry-19/ai-dev-squad-skills)** | Full 6-agent engineering squad: PRD, FinOps Architecture, DB Schema, API Contracts & QA | `npx skills add Henry-19/ai-dev-squad-skills -g` |
 | **[`qa-test-automation-governor`](https://github.com/Henry-19/qa-test-automation-governor)** | 6-layer full-stack QA, cross-skill pre-test audit, API security/IDOR & Playwright zero-error E2E | `npx skills add Henry-19/qa-test-automation-governor -g` |
 | **[`phase-state-governor`](https://github.com/Henry-19/phase-state-governor)** | Deterministic stage-gate execution, SSOT `.agent/state.md` & zero-junk hygiene | `npx skills add Henry-19/phase-state-governor -g` |
 | **[`llm-token-optimizer`](https://github.com/Henry-19/llm-token-optimizer)** | 4-layer LLM token compression, semantic caching & model tier routing | `npx skills add Henry-19/llm-token-optimizer -g` |
-| **[`meta-skill-synthesizer`](https://github.com/Henry-19/meta-skill-synthesizer)** | Evolutionary meta-skill engine that analyzes & forges Elite Edition skills | `npx skills add Henry-19/meta-skill-synthesizer -g` |
 | **[`UI-UX-Design-Engineer`](https://github.com/Henry-19/UI-UX-Design-Engineer)** | Anti-AI-Slop bespoke UI/UX with 3-tier design tokens, 5 screen states & WCAG 2.1 AA | `npx skills add Henry-19/UI-UX-Design-Engineer -g` |
 | **[`office-doc-intelligence`](https://github.com/Henry-19/office-doc-intelligence)** | BLUF executive document analysis (PDF/DOCX/XLSX) with zero-hallucination citations | `npx skills add Henry-19/office-doc-intelligence -g` |
 | **[`office-stem-suite`](https://github.com/Henry-19/office-stem-suite)** | Typst/XeLaTeX academic PDFs, native Word OMML equations & live-formula Excel | `npx skills add Henry-19/office-stem-suite -g` |
